@@ -1,8 +1,7 @@
-A PowerShell module that accurately validates phone numbers.
+A PowerShell module that can test phone numbers and inlucdes Pester tests.
 
 > Ported from https://github.com/dvx/fonz.js
 
-A PowerShell module that can test phone numbers and inlucdes Pester tests.
 ## Examples
 ```powershell
 $numbers = $(

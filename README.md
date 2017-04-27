@@ -1,4 +1,4 @@
-A PowerShell module that can test phone numbers and inlucdes Pester tests.
+A PowerShell module that can test phone numbers and includes Pester tests.
 
 > Ported from https://github.com/dvx/fonz.js
 

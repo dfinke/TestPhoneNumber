@@ -1,6 +1,4 @@
-﻿# Ported from https://github.com/dvx/fonz.js
-
-function Test-PhoneNumber {
+﻿function Test-PhoneNumber {
     param(
         [string]$PhoneNumber
     )
